@@ -15,3 +15,8 @@ UtilInspect({'function': new Function()}, 0)
  }
 */
 ```
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/muno9748/Util.inspect@latest/inspect.js"></script>
+```
+to get UtilInspect
